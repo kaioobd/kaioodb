@@ -1,4 +1,3 @@
-# kaioodb
 <h1 align="center">Hi 👋, Olá, sou o Kaio Gomes</h1>
 <h3 align="center">Estudante de desenvolvimento de sistemas, ETEC PROFESSOR BASILIDES DE GODOY🌟.</h3>
 
